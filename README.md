@@ -41,4 +41,5 @@ Comandos utilizados para revisão de código [keymap](https://resources.jetbrain
 |ctrl + alt + f | Field|
 |ctrl + alt + T | Surround with|
 |ctrl + j | Templates|
-|ctrl + alt + o | Ajusta as importações|
+|ctrl + alt + o | Ajusta as importações |
+|Ctrl+F11 | Bookmarks |
